@@ -1,6 +1,6 @@
 # Magento 2 Booking Airbnb Clone Script by MageTop
 
-**Airbnb Clone Script** is ready-to-use Vacation rental software that you can deploy to launch your own travel booking website in a matter of hours. There are a lot of vacation rental script that you can obtain from the internet, but the best Airbnb clone is TOPbnb; an Airbnb clone script by Magetop. This software comes packed with all the features that you will need to launch your booking website, satisfy your users, stand in the competition and make a lot of money.
+**Magento 2 Booking Airbnb Clone Script** is ready-to-use Vacation rental software that you can deploy to launch your own travel booking website in a matter of hours. There are a lot of vacation rental script that you can obtain from the internet, but the best Airbnb clone is TOPbnb; an Airbnb clone script by Magetop. This software comes packed with all the features that you will need to launch your booking website, satisfy your users, stand in the competition and make a lot of money.
 
 ## Highlight features
 
