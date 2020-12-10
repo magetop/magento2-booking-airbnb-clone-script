@@ -45,8 +45,8 @@
 ## More features & Demo
 
 - Extension details : https://www.magetop.com/magento-2-booking-airbnb-clone-script.html
-- Frontend demo : https://www.magetop.com/magento-2-booking-airbnb-clone-script.html
-- Backend demo : https://www.magetop.com/magento-2-booking-airbnb-clone-script.html
+- Frontend demo : https://livedemo.magetop.com/airbnb
+- Backend demo : https://livedemo.magetop.com/airbnb/admin
 
 ## Support & Contact info
 
