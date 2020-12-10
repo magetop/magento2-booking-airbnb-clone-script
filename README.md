@@ -42,13 +42,13 @@
 - Allow to upload your profile picture and customer details.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-booking-airbnb-clone-script.html
 - Frontend demo : https://livedemo.magetop.com/airbnb
 - Backend demo : https://livedemo.magetop.com/airbnb/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
